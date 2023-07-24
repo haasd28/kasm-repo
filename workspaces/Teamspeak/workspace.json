@@ -1,0 +1,20 @@
+{
+  "friendly_name": "Teamspeak",
+  "image_src": "blob:https://haasd28.github.io/8a73a001-01d7-497f-8405-5d61ae3548f6",
+  "description": "TeamSpeak is software for quality voice communication via the Internet.",
+  "name": "teamspeak:latest",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Communication"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
